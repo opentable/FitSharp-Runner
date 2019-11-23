@@ -1,0 +1,18 @@
+*.suo
+*.user
+*.log
+*.zip
+*.pyc
+*.transformed
+*.Cache
+
+#JetBrains Tools
+_ReSharper.*
+.idea
+
+#Visual Studio
+.vs
+
+bin
+obj
+
